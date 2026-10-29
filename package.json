@@ -1,0 +1,27 @@
+{
+  "name": "financial-literacy-upi-safety-cep",
+  "version": "1.0.0",
+  "description": "Educational website for Community Engagement Project (CEP) on Financial Literacy and UPI Safety Awareness at MIT Chhatrapati Sambhajinagar.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js",
+    "test": "node -c js/app.js js/data.js server.js"
+  },
+  "keywords": [
+    "financial-literacy",
+    "upi-safety",
+    "cyber-awareness",
+    "community-engagement-project",
+    "mit-chhatrapati-sambhajinagar",
+    "nep-2020",
+    "1930-helpline"
+  ],
+  "author": "SY B.Tech Students, MIT Chhatrapati Sambhajinagar",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
+
